@@ -5,7 +5,7 @@
 
 > The framework for creating first-person view games in Godot.
 
-A modular toolkit with actors, components, an advanced player controller,
+A modular Godot toolkit with actors, components, an advanced player controller,
 and UI systems — to help you build immersive FPS games faster.
 
 ---
