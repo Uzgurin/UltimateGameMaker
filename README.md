@@ -1,5 +1,45 @@
-# 🌟UltimateGameMaker
-The framework for creating first person view games in Godot
+
+
+# 🌟 UltimateGameMaker
+
+> The framework for creating first-person view games in Godot.
+
+A modular toolkit with actors, components, an advanced player controller,
+and UI systems — to help you build immersive FPS games faster.
+
+---
+
+## 📋 Requirements
+
+| Requirement | Value |
+|-------------|-------|
+| **Godot Engine** | `4.7+` |
+| **Renderer** | `Forward+` |
+| **Language** | GDScript |
+| **Platforms** | Windows · Linux · macOS |
+
+---
+
+## License
+
+This project is **open source**.
+
+See the [`LICENSE`](LICENSE) file for full terms.
+
+---
+
+## 🚀 Quick Start
+
+1. **Download** or clone the repository.
+2. **Copy** the framework into your Godot `4.7+` project.
+3. **Enable** the plugin in `Project → Project Settings → Plugins`.
+4. **Run** the demo scene to see actors and components in action.
+
+> Make sure your project uses the **Forward+** renderer:
+> `Project Settings → Rendering → Renderer → Forward+`.
+
+---
+# Features
 
 This framework will add modules, logic, a player, and mobs to the project that will help you in creating your game.
 
